@@ -1,0 +1,8 @@
+ <ul>
+        <li><img src="" alt="profile-icon"<pre>Not logged in      talk    contributions   creat   account  login</pre></li>
+        <li><a href="#">Talk</a></li>
+        <li><a href="#">Contributions</a></li>
+        <li><a href="#">Create Account</a></li>
+        <li><a href="#">Log in</a></li>
+    </ul>
+    </div>
